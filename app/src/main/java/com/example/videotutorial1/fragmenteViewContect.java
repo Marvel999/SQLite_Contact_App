@@ -100,7 +100,7 @@ public class fragmenteViewContect extends Fragment {
 
 
 
-        } 
+        }
         else if(mAppBarState==SearchAppBar){
             viewContectBar.setVisibility(View.GONE);
             viewSearchBar.setVisibility(View.VISIBLE);
